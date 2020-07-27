@@ -1548,4 +1548,5 @@ PRODUCT_PACKAGES += \
     QPerformance \
     UxPerformance \
     WfdCommon \
-    chargeonlymode
+    chargeonlymode \
+    liblbs_core
