@@ -1,5 +1,0 @@
-service fod /system/bin/fod_wakeup
-    class late_start
-    oneshot
-    user root
-    group root usb system
